@@ -1,2 +1,2 @@
-* [English](en)
-* [한국어](ko)
+* [English](en/)
+* [한국어](ko/)
